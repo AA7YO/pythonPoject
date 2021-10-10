@@ -1,0 +1,2 @@
+# pytonPoject
+trying git
